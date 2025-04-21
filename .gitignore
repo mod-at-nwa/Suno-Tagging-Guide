@@ -1,0 +1,12 @@
+*.log
+*.bak
+.DS_Store
+node_modules/
+.env
+.vscode/
+*.tmp
+CLAUDE_MEMORY
+CLAUDE_LOG_*
+CLAUDE.md
+docs/CLAUDE_LOG_*
+docs/CLAUDE.md
