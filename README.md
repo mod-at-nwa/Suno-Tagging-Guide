@@ -20,6 +20,16 @@ A comprehensive guide for optimizing song generation with Suno AI, focusing on e
 
 These guides are designed for Suno users looking to improve their AI music generation results. The techniques range from beginner-friendly approaches to advanced strategies that can be mixed and matched based on your creative needs.
 
+### Using with an LLM
+
+For optimal results, upload these guide files into your preferred Large Language Model (such as Claude, ChatGPT, etc.) and then prompt the LLM to help you create songs. Here are some effective prompt examples:
+
+1. "Write me a song about [your subject]"
+2. "Write me a song about [link to an article or content]"
+3. "Write me a song, and put the words 'banana rum baby hum' as the hook. Make the song about a person who can't remember the words to a song."
+
+The LLM will apply the techniques from the guides to generate well-structured song lyrics with appropriate meta tags and style suggestions for Suno.
+
 ## License
 
 This repository is provided for educational purposes under the MIT License.
