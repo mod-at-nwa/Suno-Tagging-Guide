@@ -253,6 +253,55 @@ The lyrics provided showcase rhythmic expression effectively:
 - **Use Silence**: A `[Pause]` before a hook can heighten its impact.
 - **Balance Story and Rhythm**: Ensure the narrative (e.g., losing drawls) remains clear amid rhythmic focus.
 
+## Advanced Song Structure Template
+
+When crafting songs in Suno’s Custom Mode, a well-defined structure is key to creating a professional, engaging track. Below is a versatile song format that balances repetition and progression, perfectly tailored to Suno’s capabilities:
+
+**Song Format**:  
+- Intro  
+- Verse 1  
+- Pre-chorus  
+- Verse 2  
+- Pre-chorus  
+- Chorus  
+- Verse 3  
+- Pre-chorus  
+- Bridge  
+- Verse 4  
+- Pre-chorus  
+- Chorus  
+- Outro  
+
+### Why This Works  
+This structure provides a clear roadmap for your song:  
+- **Intro**: Sets the tone and hooks the listener.  
+- **Verses**: Deliver the story or theme with evolving lyrics.  
+- **Pre-chorus**: Builds anticipation for the chorus.  
+- **Chorus**: The emotional peak, memorable and repeatable.  
+- **Bridge**: Adds contrast and depth, breaking the pattern.  
+- **Outro**: Ties it all together for a satisfying close.  
+
+The repetition of the pre-chorus keeps the song cohesive, while the bridge and varied verses prevent monotony. It’s a direct hack for Suno’s Custom Mode, ensuring your song feels dynamic yet polished.
+
+### Example: "Tmux Song"  
+Here’s how this format could be applied to a song about the terminal tool tmux:  
+
+- **Intro**: Instrumental, a rhythmic beep-like synth to mimic typing.  
+- **Verse 1**: "Split the screen, I’m in control / Windows stack, I’m on a roll."  
+- **Pre-chorus**: "Fingers fly, the panes align / Terminal’s mine, it’s by design."  
+- **Verse 2**: "Sessions saved, I never quit / Detach and roam, bit by bit."  
+- **Pre-chorus**: "Fingers fly, the panes align / Terminal’s mine, it’s by design."  
+- **Chorus**: "Tmux, oh tmux, you set me free / Multitask magic, just for me."  
+- **Verse 3**: "Prefix keys, I’m in the zone / Commands flow, I’m not alone."  
+- **Pre-chorus**: "Fingers fly, the panes align / Terminal’s mine, it’s by design."  
+- **Bridge**: "No more chaos, no more fuss / Power shifts with every plus."  
+- **Verse 4**: "Reattach, I’m back in play / Tmux reigns, I’m here to stay."  
+- **Pre-chorus**: "Fingers fly, the panes align / Terminal’s mine, it’s by design."  
+- **Chorus**: "Tmux, oh tmux, you set me free / Multitask magic, just for me."  
+- **Outro**: Slow fade of the synth, echoing the chorus melody.  
+
+This example shows how the structure keeps the song engaging while fitting Suno’s framework. Try plugging your own lyrics into this template to see it shine!
+
 ### Conclusion
 
 Advanced lyrical rhythmic expression turns words into a rhythmic instrument. By planning syllables, breaking structures strategically, and layering vocals, you can craft lyrics that pulse with the music. Use meta tags like `[Intro]`, `[Verse]`, and `[Chorus]` to guide the AI, and test your work aloud to perfect the flow. With these techniques, your songs—like the playful hunt for lost drawls—will resonate with both rhythm and soul.
